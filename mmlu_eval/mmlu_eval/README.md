@@ -1,0 +1,1 @@
+To run `mmlu_eval_openai.py`, you need to construct MMLU data in `evals/registry/data` and a YAML specification file in `evals/registry/evals`. [This notebook](https://github.com/openai/evals/blob/main/examples/mmlu.ipynb) contains code to do the two things.
